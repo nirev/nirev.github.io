@@ -1,0 +1,23 @@
+# Setup
+title:               Taming Chaos
+tagline:             '@nirev rambles about things'
+description:         'Just another human being trying to make sense of things.'
+
+url:                 http://nirev.github.io
+baseurl:             ''
+
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              nirev
+  url:               https://twitter.com/nirev
+  email:             contact@nirev.org
+
+# Custom vars
+version:             1.0.0
+
+gems: [jekyll-paginate]
+paginate_path: "page:num"
+
