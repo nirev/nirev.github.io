@@ -22,3 +22,4 @@ author:
 gems: [jekyll-paginate]
 paginate_path: "page:num"
 
+google_analytics: UA-32536369-1
