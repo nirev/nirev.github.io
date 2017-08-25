@@ -19,7 +19,10 @@ author:
   url:               https://twitter.com/nirev
   email:             contact@nirev.org
 
-gems: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-redirect-from
+
 paginate_path: "page:num"
 
 google_analytics: UA-32536369-1
