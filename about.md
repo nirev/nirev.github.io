@@ -19,3 +19,5 @@ Most of the time you can find me at:
 * [speakerdeck](https://speakerdeck.com/nirev)
 
 
+You can [send me a message](https://forms.gle/H47g9Rg1Ku8TMKqq5) if you want.
+
